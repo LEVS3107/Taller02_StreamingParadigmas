@@ -10,9 +10,23 @@
 | Fernando Zambrano | Rafaz-7 |  |
 
 ### Luis Vargas
+| Paradigma | Codigo | Explicacion | Cambios(Si Aplica) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
 ### Luis Mendoza
+| Paradigma | Codigo | Explicacion | Cambios(Si Aplica) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
 ### Kevin Borbor
+| Paradigma | Codigo | Explicacion | Cambios(Si Aplica) |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
 ### Fernando Zambrano
+| Paradigma | Codigo | Explicacion | Cambios(Si Aplica) |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+#### Diagrama de clases
