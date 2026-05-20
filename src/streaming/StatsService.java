@@ -13,8 +13,8 @@ public class StatsService {
         System.out.println("Total de mensajes: " + transmision.getMensajes().size());
         
         long estudiantes = transmision.getAsistentes().stream()
-                .filter(u -> "estudiante".equals(u.getRol()))
-                .count();
+                .filter(u -> "estudiante".equals(u.getRol())) // Paradigma Funcional
+                .count(); // Paradigma Funcional
         System.out.println("Estudiantes conectados: " + estudiantes);
         
         System.out.println("\n=== MENSAJES ===");
